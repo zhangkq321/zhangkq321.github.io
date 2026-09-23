@@ -3,8 +3,8 @@
 # delete (or leave empty) the lines you do not use
 email: zhangkq321@163.com
 github_username: zhangkq321
-# scholar_userid: your-google-scholar-id   # the 20 chars after /citations?user= in your Scholar URL
-# orcid_id: your-orcid
+scholar_userid: rGse-XgAAAAJ   # the 20 chars after /citations?user= in your Scholar URL
+orcid_id: 0000-0002-8297-5084
 # linkedin_username: your-linkedin
 # wechat_qr: wechat-qr.png                 # put the image in assets/img/
 # cv_pdf: /assets/pdf/cv.pdf
