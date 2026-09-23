@@ -1,0 +1,11 @@
+# social links shown on the about page, in the order defined here
+# plugin docs: https://github.com/george-gca/jekyll-socials
+# delete (or leave empty) the lines you do not use
+email: zhangkq321@163.com
+github_username: zhangkq321
+# scholar_userid: your-google-scholar-id   # the 20 chars after /citations?user= in your Scholar URL
+# orcid_id: your-orcid
+# linkedin_username: your-linkedin
+# wechat_qr: wechat-qr.png                 # put the image in assets/img/
+# cv_pdf: /assets/pdf/cv.pdf
+# rss_icon: true

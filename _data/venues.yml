@@ -1,0 +1,36 @@
+# Badge colour / link for each `abbr` value used in _bibliography/papers.bib
+# Leave `url` empty until you want the badge to link to the journal homepage.
+"IJNME":
+  color: "#1a5fb4"
+"TAFM":
+  color: "#1a5fb4"
+"IJHMT":
+  color: "#1a5fb4"
+"TUST":
+  color: "#1a5fb4"
+"Comput. Geotech.":
+  color: "#1a5fb4"
+"Rock Mech. Rock Eng.":
+  color: "#1a5fb4"
+"IJNAG":
+  color: "#1a5fb4"
+"Acta Mech. Sin.":
+  color: "#1a5fb4"
+"ESCE":
+  color: "#1a5fb4"
+"Ocean Eng.":
+  color: "#26a269"
+"Structures":
+  color: "#26a269"
+"SDTSB":
+  color: "#26a269"
+"GTJ":
+  color: "#26a269"
+"JER":
+  color: "#26a269"
+"PPCE":
+  color: "#26a269"
+"JMCWM":
+  color: "#e5a50a"
+"EI":
+  color: "#61565b"
